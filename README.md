@@ -86,10 +86,6 @@
   </a>
 </p>
 
-<!-- GitHub stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithZeeshan&show_icons=true&locale=en&layout=compact" alt="CodeWithZeeshan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithZeeshan&show_icons=true&locale=en" alt="CodeWithZeeshan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithZeeshan&" alt="CodeWithZeeshan" /></p>
 
 <!-- Live Projects section -->
 <h3 align="left">Live Projects:</h3>
